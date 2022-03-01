@@ -1,0 +1,3 @@
+hello! this text is from sample1 proof:{
+    had to rewiwright this file for silly mistake so don't expect anything here
+}
